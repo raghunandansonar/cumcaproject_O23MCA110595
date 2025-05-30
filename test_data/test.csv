@@ -1,0 +1,11 @@
+age,sex,What type of chest pain you have,What is your resting systolic blood pressure,Enter your serum cholestrol in mg/dl,Is your fasting blood sugar > 120 mg/dl,Which of this is your resting ElectroCardioGraph,Tell me the maximum heart-rate achieved by you,Do your exercise induced angina,"What is your ST depression value, induced by exercise, relative to rest",What is the slope of your peak exercise ST segment?,target
+52,male,Typical Agina,125,212,No,Having ST - T wave abnormality,168,No,1,Down Sloping,You DON'T have HEART DISEASE
+58,female,Typical Agina,100,248,No,Normal,122,No,1,Flat,You have HEART DISEASE
+71,female,Typical Agina,112,149,No,Having ST - T wave abnormality,125,No,1.6,Flat,You have HEART DISEASE
+43,female,Typical Agina,132,341,Yes,Normal,136,Yes,3,Flat,You DON'T have HEART DISEASE
+34,female,Atypical Agina,118,210,No,Having ST - T wave abnormality,192,No,0.7,Down Sloping,You have HEART DISEASE
+59,male,Atypical Agina,140,221,No,Having ST - T wave abnormality,164,Yes,0,Down Sloping,You have HEART DISEASE
+60,male,Typical Agina,125,258,No,Normal,141,Yes,2.8,Flat,You DON'T have HEART DISEASE
+47,male,Typical Agina,110,275,No,Normal,118,Yes,1,Flat,You DON'T have HEART DISEASE
+50,female,Typical Agina,110,254,No,Normal,159,No,0,Down Sloping,You have HEART DISEASE
+54,male,Typical Agina,120,188,No,Having ST - T wave abnormality,113,No,1.4,Flat,You DON'T have HEART DISEASE

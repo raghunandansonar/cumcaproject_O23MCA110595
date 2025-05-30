@@ -1,0 +1,18 @@
+Heart Disease Prediction With Machine Learning
+
+Algorithm / Model Used: Random Forest Classifier.
+Accuracy Train score: 100% and test score: 100%
+*****************************************************
+
+Algorithm / Model Used: Bagging Classifier.
+Accuracy Train score: 100% and test score: 100%
+
+*****************************************************
+Algorithm / Model Used: XG Boost.
+Accuracy Train score: 100% and test score: 100%
+
+*****************************************************
+Algorithm / Model Used: LightGBM.
+Accuracy Train score: 100% and test score: 100%
+
+*****************************************************
